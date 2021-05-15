@@ -2,14 +2,14 @@
   "title": "test",
   "description": "doujin",
   "artist": "doujinka",
-  "cover": "http://sugarparade.ukepile.com/Scanlations/gachimayan/test/001.jpg",
+  "cover": "https://sugarparade.ukepile.com/Scanlations/gachimayan/test/001.jpg",
   "chapters": {
     "1": {
       "title": "_",
       "groups": {
         "gachimayan": [ 
-                          "http://sugarparade.ukepile.com/Scanlations/gachimayan/test/1E1GYFJOUYAAuiIS.png",
-                          "http://sugarparade.ukepile.com/Scanlations/gachimayan/test/2E1GYFJOUUAAjron.png"
+                          "https://sugarparade.ukepile.com/Scanlations/gachimayan/test/1E1GYFJOUYAAuiIS.png",
+                          "https://sugarparade.ukepile.com/Scanlations/gachimayan/test/2E1GYFJOUUAAjron.png"
                         ]
       },
       "last_updated": "1621045037"
