@@ -1,11 +1,10 @@
 {
   "title": "kiribaku",
-  "description": "doujin",
-  "artist": "doujinka",
+  "description": "( u w u ),
   "cover": "https://drive.google.com/uc?id=1_dhlW35ssBlBxkF57BeFzNsKq7FiRebo",
   "chapters": {
-    "1": {
-      "title": "____",
+    "2021.05.14": {
+      "title": "hiyoko kanteido - rei no yoake",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/vu3Rjnq/"
       },
