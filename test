@@ -1,17 +1,16 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "test",
+  "description": "doujin",
+  "artist": "doujinka",
+  "author": "doujinka",
+  "cover": "http://sugarparade.ukepile.com/Scanlations/gachimayan/test/1E1GYFJOUYAAuiIS.png",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "_",
       "groups": {
-        "<group name>": "http://sugarparade.ukepile.com/Scanlations/gachimayan/test"
+        "<group name>": "http://sugarparade.ukepile.com/Scanlations/gachimayan/test/"
       }
-      "last_updated": "1616368746"
+      "last_updated": "1621045037"
     },
   }
 }
