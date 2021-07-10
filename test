@@ -3,7 +3,7 @@
   "description": "discord: https://discord.gg/3JT2Zah",
   "cover": "https://i.imgur.com/nfW7xwb.png",
   "chapters": {
-    "1": {
+    "0": {
       "title": "[hiyoko kanteido] rei no yoake",
       "volume": "1",
       "groups": {
@@ -11,9 +11,9 @@
       },
       "last_updated": "1621107833"
     },
-    "2": {
+    "0": {
       "title": "[senowo] dragon no kiba",
-      "volume": "1",
+      "volume": "2",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/sI7ULjg/"
       },
