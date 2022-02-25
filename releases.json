@@ -1,113 +1,113 @@
 {
   "title": "gachimayan - releases",
   "description": "discord: https://discord.gg/3JT2Zah",
+  "artist": "",
+  "author": "",
   "cover": "https://i.imgur.com/nfW7xwb.png",
   "chapters": {
     "1": {
       "title": "[hiyoko kanteido] rei no yoake",
       "volume": "1",
+      "last_updated": "1621107833",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/uIM6Td9/"
-      },
-      "last_updated": "1621107833"
+      }
     },
     "2": {
       "title": "[senowo] dragon no kiba",
       "volume": "1",
+      "last_updated": "1625888564",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/sI7ULjg/"
-      },
-      "last_updated": "1625888564"
+      }
     },
     "3": {
       "title": "[suabi] chinmoku wa kuro yuuben wa kin",
       "volume": "1",
+      "last_updated": "1626660004",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/Loy4Vxb/"
-      },
-      "last_updated": "1626660004"
+      }
     },
     "4": {
       "title": "[nanamigoku] encounter zero",
       "volume": "1",
+      "last_updated": "1627093200",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/uBAvUZt/"
-      },
-      "last_updated": "1627093200"
-    }, 
+      }
+    },
     "5": {
       "title": "[pop de ayashige] kore wa jii de aru",
       "volume": "1",
+      "last_updated": "1627960562",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/mx05RRD/"
-      },
-      "last_updated": "1627960562"
+      }
     },
     "6": {
       "title": "[nu] terumob web sairoku",
       "volume": "1",
+      "last_updated": "1628045882",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/2S0Uk3Y/"
-      },
-      "last_updated": "1628045882"
+      }
     },
     "7": {
       "title": "[ys] himitsu no todoroki-kun",
       "volume": "1",
+      "last_updated": "1629253336",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/z15J0US/"
-      },
-      "last_updated": "1629253336"
+      }
     },
     "8": {
       "title": "[ho] dangerous taste",
       "volume": "1",
+      "last_updated": "1632884292",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/9w0ElLN/"
-      },
-      "last_updated": "1632884292"
+      }
     },
     "9": {
       "title": "[rikiko] kirishima's birthday",
       "volume": "1",
+      "last_updated": "1634442384",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/XhvDYAD/"
-      },
-      "last_updated": "1634442384"
+      }
     },
     "10": {
       "title": "[hellenism] warui otoko",
       "volume": "1",
+      "last_updated": "1634442773",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/DjvfPD6/"
-      },
-      "last_updated": "1634442773"
+      }
     },
     "11": {
       "title": "[senowo] taiyou no ougon no tsubasa",
       "volume": "1",
+      "last_updated": "1634442873",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/h2ApAK0/"
-      },
-      "last_updated": "1634442873"
+      }
     },
     "12": {
       "title": "[micco] pizza pizza pizza",
       "volume": "1",
+      "last_updated": "1640569181",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/IbRgZ3b/"
-      },
-      "last_updated": "1640569181"
+      }
     },
     "13": {
       "title": "[shimo ga dorodoro] baku",
       "volume": "1",
+      "last_updated": "1644885564",
       "groups": {
         "gachimayan": "/proxy/api/imgur/chapter/BK5hqjo/"
-      },
-      "last_updated": "1644885564"
-    }   
-    
-    
+      }
+    }
   }
 }
